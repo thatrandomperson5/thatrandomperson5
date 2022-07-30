@@ -3,3 +3,5 @@
 
 
 ![](https://komarev.com/ghpvc/?username=thatrandomperson5)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=thatrandomperson5)](https://github.com/ryo-ma/github-profile-trophy)
