@@ -15,6 +15,5 @@
 [![ThatRandomPerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatrandomperson5)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Discord
-
-<img src="https://md-embed-discord-bot.dragonhunter1.repl.co/api?tg=not%20logged%20in#4644">
+![](https://md-embed-discord-bot.dragonhunter1.repl.co/api?tg=not%20logged%20in#4644)
 
