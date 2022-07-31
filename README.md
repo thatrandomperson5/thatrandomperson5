@@ -16,7 +16,5 @@
 
 ## Discord
 
-<p>Discord username:</p>
-
-<b styles="text-align: center; border-radius:50%; -moz-border-radius:50%; -webkit-border-radius:50%;"><img src="https://cdn.discordapp.com/avatars/910899642236043294/33d92fd0db63bf9cdd5e8b92db83d76a.png?size=100" height="25" >not logged in#4644</b>
+<img src="https://md-embed-discord-bot.dragonhunter1.repl.co/api?tg=not%20logged%20in#4644">
 
