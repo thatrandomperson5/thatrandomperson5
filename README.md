@@ -17,5 +17,5 @@
 ## Discord
 
 
-<a href="https://discord.gg/Ja5CvWgmdc"><img src="https://md-embed-discord-bot.dragonhunter1.repl.co/api?tg=not%20logged%20in&hash=4664"></a>
+<a href="https://discord.gg/Ja5CvWgmdc"><img src="https://md-embed-discord-bot.dragonhunter1.repl.co/api?tg=not%20logged%20in&hash=4644"></a>
 
