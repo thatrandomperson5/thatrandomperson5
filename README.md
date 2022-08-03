@@ -18,3 +18,5 @@
 
 <a href="#"><img src="https://md-embed-discord-bot.dragonhunter1.repl.co/api?tg=not%20logged%20in&hash=4644" alt="discord profile" height="40"></a>
 
+
+![](https://md-embed-discord-bot.dragonhunter1.repl.co/api?tg=not%20logged%20in&hash=4644)
