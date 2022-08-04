@@ -16,7 +16,7 @@
 
 ## Discord
 
-<a href="#"><img src="https://md-embed-site.dragonhunter1.repl.co/api/v2?tg=not%20logged%20in&hash=4644" alt="discord profile" height="40"></a>
+<a href="#"><img src="https://md-embed-site.dragonhunter1.repl.co/api/v2/frozen?tg=not%20logged%20in&hash=4644" alt="discord profile" height="40"></a>
 
 
 
